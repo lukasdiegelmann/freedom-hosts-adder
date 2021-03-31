@@ -1,0 +1,20 @@
+{
+    "name": "freedom-site-adder",
+    "version": "1.0.0",
+    "description": "A small programm that will let you add many hosts to a new freedom blocklist.",
+    "author": "lukasdiegelmann",
+    "scripts": {
+        "build": "pkg . --target host --output ./bin/freedom-site-adder.exe"
+    },
+    "keywords": [
+        "freedom",
+        "blocklist",
+        "qualityoflife"
+    ],
+    "license": "MIT",
+    "dependencies": {
+        "chalk": "^4.1.0",
+        "cli-spinners": "^2.6.0",
+        "puppeteer": "^8.0.0"
+    }
+}
