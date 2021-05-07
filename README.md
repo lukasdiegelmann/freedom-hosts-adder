@@ -1,4 +1,4 @@
-# Freedom Site Adder
+# Freedom Hosts Adder
 
 <div style="display: flex; justify-content: center">
     <img src="https://pbs.twimg.com/profile_images/652170773025697792/JRyx48Nv.png" alt="freedom.to logo" width="200px"/>
